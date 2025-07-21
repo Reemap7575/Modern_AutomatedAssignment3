@@ -6,7 +6,7 @@ This project refactors painting cost calculations using industry-standard coding
 ## Setup
 ```bash
 git clone https://github.com/conestogac-acsit/SENG8120-Modern-Automated-Testing/tree/getting-to-industry-standard
-cd YOUR_REPO
+cd  https://github.com/Reemap7575/Modern_AutomatedAssignment3
 npm install
 ```
 
