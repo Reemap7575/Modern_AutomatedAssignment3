@@ -1,0 +1,19 @@
+{
+  "name": "painting-cost-calculator",
+  "version": "1.0.0",
+  "description": "Refactored painting cost calculator with TDD",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest --coverage",
+    "build": "tsc"
+  },
+  "keywords": ["typescript", "jest", "painting", "calculator"],
+  "author": "Reema Panchal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.3",
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.1.6"
+  }
+}
